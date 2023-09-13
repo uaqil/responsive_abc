@@ -20,7 +20,7 @@ const Auth = () => {
 			boxShadow:'10px 10px 20px #ccc',
 		 } }}>
 			<Typography variant='h2' padding={3} textAlign='center'>
-				Login
+				Login abc
 			</Typography>
 			<TextField margin='normal' type={'text'} variant='outlined' placeholder='Name'></TextField>
 			<TextField margin='normal' type={'email'} variant='outlined' placeholder='Email'></TextField>
